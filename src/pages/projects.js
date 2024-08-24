@@ -12,7 +12,6 @@ import project4Img from "../images/projects/project4.jpeg"
 import project5Img from "../images/projects/project5.png"
 import project6Img from "../images/projects/project6.png"
 import TransitionEffect from '@/components/TransitionEffect'
-import CheckLoggedIn from '@/components/hooks/useCheckLoggedIn'
 
 const FeaturedProject = ({type, title, summary, img, link, github}) => {
     return (

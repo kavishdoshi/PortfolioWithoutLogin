@@ -8,7 +8,6 @@ import { LinkArrow } from '@/components/Icons'
 import HireMe from '@/components/HireMe'
 import lightBulb from "../../public/images/svgs/miscellaneous_icons_1.svg"
 import TransitionEffect from '@/components/TransitionEffect'
-import CheckLoggedIn from '@/components/hooks/useCheckLoggedIn'
 
 
 export default function Home() {

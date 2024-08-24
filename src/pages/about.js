@@ -9,7 +9,6 @@ import Skills from '@/components/Skills'
 import Experience from '@/components/Experience'
 import Education from '@/components/Education'
 import TransitionEffect from '@/components/TransitionEffect'
-import CheckLoggedIn from '@/components/hooks/useCheckLoggedIn'
 
 const AnimatedNumbers = ({value}) => {
 
